@@ -1,3 +1,3 @@
-FROM vimal13/apache-webserver-php
+FROM httpd
 COPY index.html /var/www/html/
 
